@@ -1,1 +1,1 @@
-web: java -jar target/mavenproject1-1.0-SNAPSHOT.war
+web: java -jar target/mavenproject1-1.0-SNAPSHOT.jar
